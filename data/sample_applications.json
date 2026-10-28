@@ -1,0 +1,1602 @@
+[
+  {
+    "application_id": "MP-INC-2024-0001",
+    "applicant_name": "राजकुमार पटेल",
+    "applicant_name_en": "Rajkumar Patel",
+    "father_name": "श्री रामनारायण पटेल",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-26",
+    "last_updated": "2026-10-26",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "भोपाल",
+    "district_en": "Bhopal",
+    "tehsil": "हुजूर (Huzur)",
+    "address": "42, शिवाजी नगर, भोपाल, मध्य प्रदेश",
+    "contact": "98XX-XXX-101",
+    "declared_annual_income": 180000,
+    "income_source": "कृषि",
+    "family_members": 5,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-1234",
+        "issue_date": "2021-04-12"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-BPL-2024-5678",
+        "issue_date": "2026-10-03"
+      },
+      "income_proof": {
+        "type": "Khasra/Khatauni Land Record",
+        "status": "submitted",
+        "doc_number": "KK-2024-8901",
+        "issue_date": "2026-09-18"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-9012",
+        "issue_date": "2020-01-15"
+      },
+      "self_declaration": {
+        "type": "Notarized Affidavit",
+        "status": "submitted",
+        "doc_number": "SD-2024-001",
+        "issue_date": "2026-10-25"
+      },
+      "bank_statement": {
+        "type": "SBI Passbook",
+        "status": "submitted",
+        "doc_number": "BS-SBI-2024-001",
+        "issue_date": "2026-10-13"
+      }
+    },
+    "review_notes": "सभी आवश्यक दस्तावेज़ संलग्न हैं। सामान्य समीक्षा हेतु तैयार।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0002",
+    "applicant_name": "सुनीता देवी",
+    "applicant_name_en": "Sunita Devi",
+    "father_name": "श्री हरिप्रसाद वर्मा",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-23",
+    "last_updated": "2026-10-23",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "इंदौर",
+    "district_en": "Indore",
+    "tehsil": "राऊ (Rau)",
+    "address": "15, विजयनगर, इंदौर, मध्य प्रदेश",
+    "contact": "97XX-XXX-202",
+    "declared_annual_income": 120000,
+    "income_source": "दैनिक मजदूरी",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "ration_card",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Voter ID Card",
+        "status": "submitted",
+        "doc_number": "VID-MP-3456",
+        "issue_date": "2019-11-20"
+      },
+      "address_proof": {
+        "type": "Ration Card Address",
+        "status": "submitted",
+        "doc_number": "RC-MP-3456",
+        "issue_date": "2020-05-10"
+      },
+      "ration_card": {
+        "type": "BPL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-3456",
+        "issue_date": "2020-05-10"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-002",
+        "issue_date": "2026-10-22"
+      }
+    },
+    "review_notes": "आय प्रमाण पत्र एवं 6 माह का बैंक विवरण संलग्न नहीं है।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0003",
+    "applicant_name": "अमित कुशवाहा",
+    "applicant_name_en": "Amit Kushwaha",
+    "father_name": "श्री दिनेश कुशवाहा",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-20",
+    "last_updated": "2026-10-20",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "जबलपुर",
+    "district_en": "Jabalpur",
+    "tehsil": "पाटन (Patan)",
+    "address": "78, गोरखपुर, जबलपुर, मध्य प्रदेश",
+    "contact": "96XX-XXX-303",
+    "declared_annual_income": 95000,
+    "income_source": "छोटा व्यापार (किराना)",
+    "family_members": 6,
+    "submitted_documents": [
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-JBP-2024-7890",
+        "issue_date": "2026-10-08"
+      },
+      "income_proof": {
+        "type": "Municipal Shop License",
+        "status": "submitted",
+        "doc_number": "SL-2024-001",
+        "issue_date": "2023-04-01"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-7890",
+        "issue_date": "2021-08-14"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-003",
+        "issue_date": "2026-10-19"
+      },
+      "bank_statement": {
+        "type": "PNB Statement",
+        "status": "submitted",
+        "doc_number": "BS-PNB-2024-001",
+        "issue_date": "2026-10-18"
+      }
+    },
+    "review_notes": "पहचान प्रमाण (आधार अथवा वोटर कार्ड) अपलोड नहीं किया गया है।",
+    "urgency": "high",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0004",
+    "applicant_name": "प्रिया शर्मा",
+    "applicant_name_en": "Priya Sharma",
+    "father_name": "श्री महेश शर्मा",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-17",
+    "last_updated": "2026-10-17",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "ग्वालियर",
+    "district_en": "Gwalior",
+    "tehsil": "ग्वालियर ग्रामीण",
+    "address": "23, लश्कर, ग्वालियर, मध्य प्रदेश",
+    "contact": "95XX-XXX-404",
+    "declared_annual_income": 240000,
+    "income_source": "निजी नौकरी (कंप्यूटर ऑपरेटर)",
+    "family_members": 3,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-5678",
+        "issue_date": "2018-09-12"
+      },
+      "address_proof": {
+        "type": "Registered Rent Agreement",
+        "status": "submitted",
+        "doc_number": "RA-2024-001",
+        "issue_date": "2026-08-29"
+      },
+      "income_proof": {
+        "type": "Employer Salary Slip",
+        "status": "submitted",
+        "doc_number": "SAL-2024-002",
+        "issue_date": "2026-09-28"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-1234",
+        "issue_date": "2020-03-10"
+      },
+      "self_declaration": {
+        "type": "Notarized Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-004",
+        "issue_date": "2026-10-16"
+      },
+      "bank_statement": {
+        "type": "HDFC Bank Statement",
+        "status": "submitted",
+        "doc_number": "BS-HDFC-2024-001",
+        "issue_date": "2026-10-13"
+      }
+    },
+    "review_notes": "घोषित आय ₹2,40,000 है परंतु वेतन पर्ची अनुसार वार्षिक सकल आय ₹3,60,000 दर्शित हो रही है।",
+    "urgency": "normal",
+    "secondary_income_record": 360000,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0005",
+    "applicant_name": "मोहन लाल यादव",
+    "applicant_name_en": "Mohan Lal Yadav",
+    "father_name": "श्री गोपाल यादव",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-25",
+    "last_updated": "2026-10-25",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "सागर",
+    "district_en": "Sagar",
+    "tehsil": "बीना (Bina)",
+    "address": "56, सिविल लाइन, सागर, मध्य प्रदेश",
+    "contact": "94XX-XXX-505",
+    "declared_annual_income": 210000,
+    "income_source": "शासकीय संविदा कर्मचारी",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-9012",
+        "issue_date": "2019-06-25"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-SGR-2024-3456",
+        "issue_date": "2026-10-10"
+      },
+      "income_proof": {
+        "type": "Contract Pay Certificate",
+        "status": "submitted",
+        "doc_number": "GPS-2024-001",
+        "issue_date": "2026-09-23"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-5678",
+        "issue_date": "2021-02-19"
+      },
+      "self_declaration": {
+        "type": "Notarized Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-005",
+        "issue_date": "2026-10-24"
+      },
+      "bank_statement": {
+        "type": "SBI Statement",
+        "status": "submitted",
+        "doc_number": "BS-SBI-2024-002",
+        "issue_date": "2026-10-18"
+      }
+    },
+    "review_notes": "सभी दस्तावेज़ पूर्ण एवं स्पष्ट।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0006",
+    "applicant_name": "फातिमा बेगम",
+    "applicant_name_en": "Fatima Begum",
+    "father_name": "स्व. अहमद खान",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-02",
+    "last_updated": "2026-10-02",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "उज्जैन",
+    "district_en": "Ujjain",
+    "tehsil": "बड़नगर (Badnagar)",
+    "address": "34, फ्रीगंज, उज्जैन, मध्य प्रदेश",
+    "contact": "93XX-XXX-606",
+    "declared_annual_income": 80000,
+    "income_source": "सिलाई एवं हस्तशिल्प कार्य",
+    "family_members": 7,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Voter ID Card",
+        "status": "submitted",
+        "doc_number": "VID-MP-6789",
+        "issue_date": "2017-08-11"
+      },
+      "address_proof": {
+        "type": "Municipal House Tax Receipt",
+        "status": "submitted",
+        "doc_number": "HT-UJN-6789",
+        "issue_date": "2026-07-30"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-006",
+        "issue_date": "2026-10-01"
+      }
+    },
+    "review_notes": "आवेदन 26 दिनों से लंबित (लोक सेवा गारंटी सीमा पार)। आय प्रमाण, राशन कार्ड व बैंक खाता विवरण गायब।",
+    "urgency": "high",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0007",
+    "applicant_name": "रवि प्रताप सिंह",
+    "applicant_name_en": "Ravi Pratap Singh",
+    "father_name": "श्री विजय सिंह",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-14",
+    "last_updated": "2026-10-26",
+    "status": "returned_for_correction",
+    "assigned_officer": "OFF-MP-001",
+    "district": "रीवा",
+    "district_en": "Rewa",
+    "tehsil": "हुजूर (Rewa Huzur)",
+    "address": "89, सिविल लाइन्स, रीवा, मध्य प्रदेश",
+    "contact": "92XX-XXX-707",
+    "declared_annual_income": 150000,
+    "income_source": "कृषि एवं दुग्ध व्यवसाय",
+    "family_members": 5,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-3456",
+        "issue_date": "2020-10-10"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-REWA-2024-9012",
+        "issue_date": "2026-09-13"
+      },
+      "income_proof": {
+        "type": "Khasra/Khatauni Land Record",
+        "status": "needs_verification",
+        "doc_number": "KK-2024-001",
+        "issue_date": "2026-08-29"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-007",
+        "issue_date": "2026-10-13"
+      }
+    },
+    "review_notes": "राशन कार्ड एवं 6 माह का बैंक विवरण संलग्न नहीं है। आवेदक को SMS द्वारा सूचित किया गया है।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0008",
+    "applicant_name": "कमला बाई",
+    "applicant_name_en": "Kamla Bai",
+    "father_name": "स्व. रामचरण",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-10",
+    "last_updated": "2026-10-23",
+    "status": "approved",
+    "assigned_officer": "OFF-MP-001",
+    "district": "छिंदवाड़ा",
+    "district_en": "Chhindwara",
+    "tehsil": "परासिया (Parasia)",
+    "address": "12, स्टेशन रोड, छिंदवाड़ा, मध्य प्रदेश",
+    "contact": "91XX-XXX-808",
+    "declared_annual_income": 72000,
+    "income_source": "कृषि मजदूरी",
+    "family_members": 3,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "verified",
+        "doc_number": "XXXX-XXXX-7890",
+        "issue_date": "2019-02-14"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "verified",
+        "doc_number": "EB-CHW-2024-1234",
+        "issue_date": "2026-09-18"
+      },
+      "income_proof": {
+        "type": "Panchayat Sarpanch Certificate",
+        "status": "verified",
+        "doc_number": "PC-2024-001",
+        "issue_date": "2026-10-03"
+      },
+      "ration_card": {
+        "type": "BPL Ration Card",
+        "status": "verified",
+        "doc_number": "RC-MP-2345",
+        "issue_date": "2018-05-12"
+      },
+      "self_declaration": {
+        "type": "Notarized Declaration",
+        "status": "verified",
+        "doc_number": "SD-2024-008",
+        "issue_date": "2026-10-09"
+      },
+      "bank_statement": {
+        "type": "Bank of India Passbook",
+        "status": "verified",
+        "doc_number": "BS-BOI-2024-001",
+        "issue_date": "2026-10-08"
+      }
+    },
+    "review_notes": "सभी दस्तावेज़ क्षेत्रीय पटवारी एवं तहसीलदार द्वारा सत्यापित। प्रमाण पत्र निर्गत।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0009",
+    "applicant_name": "दीपक जैन",
+    "applicant_name_en": "Deepak Jain",
+    "father_name": "श्री सुरेश जैन",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-08",
+    "last_updated": "2026-10-24",
+    "status": "rejected",
+    "assigned_officer": "OFF-MP-001",
+    "district": "देवास",
+    "district_en": "Dewas",
+    "tehsil": "कन्नौद (Kannod)",
+    "address": "67, AB रोड, देवास, मध्य प्रदेश",
+    "contact": "90XX-XXX-909",
+    "declared_annual_income": 500000,
+    "income_source": "थोक अनाज व्यापार",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "PAN Card",
+        "status": "submitted",
+        "doc_number": "ABCDE1234F",
+        "issue_date": "2016-03-21"
+      },
+      "address_proof": {
+        "type": "Rent Agreement",
+        "status": "submitted",
+        "doc_number": "RA-DEW-2024-002",
+        "issue_date": "2026-06-30"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-009",
+        "issue_date": "2026-10-07"
+      }
+    },
+    "review_notes": "आयकर रिटर्न (ITR) एवं बैंक स्टेटमेंट छुपाया गया। आय सीमा अधिक होने के कारण अस्वीकृत।",
+    "urgency": "normal",
+    "secondary_income_record": 850000,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0010",
+    "applicant_name": "गीता राजपूत",
+    "applicant_name_en": "Geeta Rajput",
+    "father_name": "श्री भूपेंद्र राजपूत",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-24",
+    "last_updated": "2026-10-24",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "सतना",
+    "district_en": "Satna",
+    "tehsil": "मैहर (Maihar)",
+    "address": "45, रीवा रोड, सतना, मध्य प्रदेश",
+    "contact": "89XX-XXX-010",
+    "declared_annual_income": 160000,
+    "income_source": "प्राथमिक विद्यालय शिक्षिका (अतिथि)",
+    "family_members": 3,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-2345",
+        "issue_date": "2020-07-15"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-SAT-2024-5670",
+        "issue_date": "2026-09-30"
+      },
+      "income_proof": {
+        "type": "Guest Teacher Certificate",
+        "status": "submitted",
+        "doc_number": "GTC-2024-003",
+        "issue_date": "2026-09-28"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-8901",
+        "issue_date": "2021-04-11"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-010",
+        "issue_date": "2026-10-23"
+      },
+      "bank_statement": {
+        "type": "Central Bank of India Passbook",
+        "status": "submitted",
+        "doc_number": "BS-CB-2024-001",
+        "issue_date": "2026-10-16"
+      }
+    },
+    "review_notes": "सभी दस्तावेज़ संलग्न हैं। सामान्य जांच लंबित।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0011",
+    "applicant_name": "विकास मालवीय",
+    "applicant_name_en": "Vikas Malviya",
+    "father_name": "श्री कैलाश मालवीय",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "विदिशा",
+    "district_en": "Vidisha",
+    "tehsil": "गंजबासौदा (Ganj Basoda)",
+    "address": "90, गंज बासोदा रोड, विदिशा, मध्य प्रदेश",
+    "contact": "88XX-XXX-111",
+    "declared_annual_income": 110000,
+    "income_source": "ऑटो रिक्शा चालक",
+    "family_members": 5,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-6789",
+        "issue_date": "2019-12-05"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-VID-2024-7891",
+        "issue_date": "2026-09-23"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-011",
+        "issue_date": "2026-10-20"
+      }
+    },
+    "review_notes": "आय प्रमाण (चालक संघ प्रमाण पत्र), राशन कार्ड एवं बैंक पासबुक अनुपलब्ध।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0012",
+    "applicant_name": "अनीता त्रिवेदी",
+    "applicant_name_en": "Anita Trivedi",
+    "father_name": "श्री शंकर त्रिवेदी",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-19",
+    "last_updated": "2026-10-19",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "नर्मदापुरम",
+    "district_en": "Narmadapuram",
+    "tehsil": "इटारसी (Itarsi)",
+    "address": "28, नर्मदा रोड, इटारसी, मध्य प्रदेश",
+    "contact": "87XX-XXX-212",
+    "declared_annual_income": 135000,
+    "income_source": "आंगनवाड़ी कार्यकर्ता",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Voter ID Card",
+        "status": "submitted",
+        "doc_number": "VID-MP-0123",
+        "issue_date": "2020-01-20"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-NDP-2024-0123",
+        "issue_date": "2026-10-06"
+      },
+      "income_proof": {
+        "type": "WCD Department Honorarium Slip",
+        "status": "submitted",
+        "doc_number": "WCD-2024-002",
+        "issue_date": "2026-09-18"
+      },
+      "ration_card": {
+        "type": "BPL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-0123",
+        "issue_date": "2019-09-15"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-012",
+        "issue_date": "2026-10-18"
+      },
+      "bank_statement": {
+        "type": "SBI Passbook Copy",
+        "status": "submitted",
+        "doc_number": "BS-SBI-2024-003",
+        "statement_date": "2023-01-15"
+      }
+    },
+    "review_notes": "बैंक विवरण अत्यंत पुराना है (लगभग 2 वर्ष पुराना)। नवीनतम 6 माह का विवरण आवश्यक है।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": {
+      "submission_date": "2026-10-19",
+      "bank_statement_date": "2023-01-15",
+      "issue": "बैंक विवरण 6 माह से अधिक पुराना है — नवीनीकरण अपेक्षित"
+    }
+  },
+  {
+    "application_id": "MP-INC-2024-0013",
+    "applicant_name": "संजय धाकड़",
+    "applicant_name_en": "Sanjay Dhakad",
+    "father_name": "श्री नंदलाल धाकड़",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-22",
+    "last_updated": "2026-10-22",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "मंदसौर",
+    "district_en": "Mandsaur",
+    "tehsil": "मल्हारगढ़ (Malhargarh)",
+    "address": "71, नई सड़क, मंदसौर, मध्य प्रदेश",
+    "contact": "86XX-XXX-313",
+    "declared_annual_income": 0,
+    "income_source": "",
+    "family_members": 0,
+    "submitted_documents": [
+      "identity_proof",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-0000",
+        "issue_date": "2021-03-10"
+      },
+      "self_declaration": {
+        "type": "Incomplete Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-013",
+        "issue_date": "2026-10-21"
+      }
+    },
+    "review_notes": "आय स्रोत, परिवार सदस्य संख्या, आय की राशि एवं पता प्रमाण अनुपलब्ध — पूर्णतः अपर्याप्त जानकारी।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0014",
+    "applicant_name": "मनोहर सिंह ठाकुर",
+    "applicant_name_en": "Manohar Singh Thakur",
+    "father_name": "श्री जुगल किशोर ठाकुर",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "सीहोर",
+    "district_en": "Sehore",
+    "tehsil": "आष्टा (Ashta)",
+    "address": "14, बस स्टैंड के पास, आष्टा, सीहोर, मध्य प्रदेश",
+    "contact": "85XX-XXX-414",
+    "declared_annual_income": 140000,
+    "income_source": "सोयाबीन एवं गेहूं कृषि",
+    "family_members": 6,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-1144",
+        "issue_date": "2019-11-02"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-SEH-2024-4140",
+        "issue_date": "2026-10-13"
+      },
+      "income_proof": {
+        "type": "B1 Khasra Record",
+        "status": "submitted",
+        "doc_number": "B1-2024-0089",
+        "issue_date": "2026-09-28"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-4141",
+        "issue_date": "2021-05-18"
+      },
+      "self_declaration": {
+        "type": "Notarized Affidavit",
+        "status": "submitted",
+        "doc_number": "SD-2024-014",
+        "issue_date": "2026-10-26"
+      },
+      "bank_statement": {
+        "type": "Narmada Jhabua Gramin Bank",
+        "status": "submitted",
+        "doc_number": "BS-NJGB-2024-001",
+        "issue_date": "2026-10-18"
+      }
+    },
+    "review_notes": "ताजा आवेदन। पुत्री के उच्च शिक्षा छात्रवृत्ति हेतु तत्काल आवश्यकता।",
+    "urgency": "high",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0015",
+    "applicant_name": "रूपा बाई भील",
+    "applicant_name_en": "Roopa Bai Bhil",
+    "father_name": "श्री कालू भील",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-13",
+    "last_updated": "2026-10-13",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "खरगोन",
+    "district_en": "Khargone",
+    "tehsil": "भीकनगांव (Bhikangaon)",
+    "address": "ग्राम पिपराड़, पोस्ट भीकनगांव, खरगोन, मध्य प्रदेश",
+    "contact": "84XX-XXX-515",
+    "declared_annual_income": 65000,
+    "income_source": "मनरेगा एवं वनोपज संकलन",
+    "family_members": 5,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-5515",
+        "issue_date": "2020-04-12"
+      },
+      "address_proof": {
+        "type": "Job Card (MGNREGA)",
+        "status": "submitted",
+        "doc_number": "JC-MP-07-001",
+        "issue_date": "2021-02-10"
+      },
+      "ration_card": {
+        "type": "Antyodaya Ration Card (AAY)",
+        "status": "submitted",
+        "doc_number": "RC-AAY-5515",
+        "issue_date": "2019-01-20"
+      },
+      "self_declaration": {
+        "type": "Gram Panchayat Pradhan Verification",
+        "status": "submitted",
+        "doc_number": "SD-2024-015",
+        "issue_date": "2026-10-12"
+      },
+      "bank_statement": {
+        "type": "Bank of India Aadhaar Seeded Account",
+        "status": "submitted",
+        "doc_number": "BS-BOI-5515",
+        "issue_date": "2026-10-03"
+      }
+    },
+    "review_notes": "आय प्रमाण पत्र संलग्न नहीं (औपचारिक वेतन पर्ची नहीं होती)। मनरेगा जॉब कार्ड प्रस्तुत है।",
+    "urgency": "high",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0016",
+    "applicant_name": "मोहम्मद तारिक कुरैशी",
+    "applicant_name_en": "Mohammad Tariq Qureshi",
+    "father_name": "श्री शफीक कुरैशी",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-16",
+    "last_updated": "2026-10-16",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "रतलाम",
+    "district_en": "Ratlam",
+    "tehsil": "जावरा (Jaora)",
+    "address": "44, चांदनी चौक, रतलाम, मध्य प्रदेश",
+    "contact": "83XX-XXX-616",
+    "declared_annual_income": 190000,
+    "income_source": "नमकीन एवं मिठाई दुकान मजदूरी",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-6161",
+        "issue_date": "2018-11-19"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-RTL-2024-6161",
+        "issue_date": "2026-10-08"
+      },
+      "income_proof": {
+        "type": "Employer Income Certificate",
+        "status": "submitted",
+        "doc_number": "EMP-2024-009",
+        "issue_date": "2026-09-28"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-6161",
+        "issue_date": "2020-08-14"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-016",
+        "issue_date": "2026-10-15"
+      },
+      "bank_statement": {
+        "type": "Bank of Baroda",
+        "status": "submitted",
+        "doc_number": "BS-BOB-2024-001",
+        "issue_date": "2026-10-13"
+      }
+    },
+    "review_notes": "समस्त 6 दस्तावेज़ उपलब्ध। आय की पुष्टि नियोक्ता पत्र से प्रमाणित।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0017",
+    "applicant_name": "कौशल्या बाई गोंड",
+    "applicant_name_en": "Kaushalya Bai Gond",
+    "father_name": "स्व. रघुनाथ गोंड",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-06",
+    "last_updated": "2026-10-06",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "बैतूल",
+    "district_en": "Betul",
+    "tehsil": "शाहपुर (Shahpur)",
+    "address": "ग्राम भौंरा, बैतूल, मध्य प्रदेश",
+    "contact": "82XX-XXX-717",
+    "declared_annual_income": 54000,
+    "income_source": "विधवा पेंशन एवं बटाईदारी कृषि",
+    "family_members": 2,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "ration_card",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Voter ID Card",
+        "status": "submitted",
+        "doc_number": "VID-BTL-7171",
+        "issue_date": "2016-04-10"
+      },
+      "address_proof": {
+        "type": "Ration Card Address",
+        "status": "submitted",
+        "doc_number": "RC-BPL-7171",
+        "issue_date": "2017-09-12"
+      },
+      "ration_card": {
+        "type": "BPL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-BPL-7171",
+        "issue_date": "2017-09-12"
+      },
+      "self_declaration": {
+        "type": "Panchayat Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-017",
+        "issue_date": "2026-10-05"
+      }
+    },
+    "review_notes": "वृद्धा/विधवा पेंशन धारक। 22 दिनों से लंबित। आय प्रमाण व बैंक खाता पासबुक संलग्न नहीं।",
+    "urgency": "high",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0018",
+    "applicant_name": "जितेंद्र चौहान",
+    "applicant_name_en": "Jitendra Chauhan",
+    "father_name": "श्री राजेंद्र चौहान",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-18",
+    "last_updated": "2026-10-18",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "धार",
+    "district_en": "Dhar",
+    "tehsil": "पीथमपुर (Pithampur)",
+    "address": "सेक्टर 3, पीथमपुर औद्योगिक क्षेत्र, धार, मध्य प्रदेश",
+    "contact": "81XX-XXX-818",
+    "declared_annual_income": 280000,
+    "income_source": "ऑटोमोबाइल फैक्ट्री श्रमिक",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-8181",
+        "issue_date": "2019-03-12"
+      },
+      "address_proof": {
+        "type": "Rental Agreement",
+        "status": "submitted",
+        "doc_number": "RA-DHAR-2024-8181",
+        "issue_date": "2026-09-08"
+      },
+      "income_proof": {
+        "type": "Factory Salary Slip",
+        "status": "submitted",
+        "doc_number": "SAL-FCT-2024-11",
+        "issue_date": "2026-09-28"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-8181",
+        "issue_date": "2020-11-20"
+      },
+      "self_declaration": {
+        "type": "Notarized Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-018",
+        "issue_date": "2026-10-17"
+      },
+      "bank_statement": {
+        "type": "ICICI Bank Statement",
+        "status": "submitted",
+        "doc_number": "BS-ICICI-2024-001",
+        "issue_date": "2026-10-10"
+      }
+    },
+    "review_notes": "घोषित आय ₹2,80,000 है परंतु वेतन पर्ची अनुसार कुल सीटीसी ₹4,20,000 है। स्पष्टीकरण आवश्यक।",
+    "urgency": "normal",
+    "secondary_income_record": 420000,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0019",
+    "applicant_name": "सरिता कोल",
+    "applicant_name_en": "Sarita Kol",
+    "father_name": "श्री शिवकुमार कोल",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-12",
+    "last_updated": "2026-10-12",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "सिंगरौली",
+    "district_en": "Singrauli",
+    "tehsil": "वैढ़न (Waidhan)",
+    "address": "वार्ड 14, वैढ़न, सिंगरौली, मध्य प्रदेश",
+    "contact": "80XX-XXX-919",
+    "declared_annual_income": 75000,
+    "income_source": "घरेलू सहायिका एवं सफाई कार्य",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "ration_card",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-9191",
+        "issue_date": "2021-08-20"
+      },
+      "address_proof": {
+        "type": "Voter ID Card",
+        "status": "submitted",
+        "doc_number": "VID-SGL-9191",
+        "issue_date": "2018-05-14"
+      },
+      "ration_card": {
+        "type": "BPL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-SGL-9191",
+        "issue_date": "2019-12-01"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-019",
+        "issue_date": "2026-10-11"
+      }
+    },
+    "review_notes": "आय प्रमाण एवं बैंक पासबुक गायब। अनुसूचित जनजाति वर्ग (कोल समाज) छात्रवृत्ति आवेदन हेतु अग्रसारित।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0020",
+    "applicant_name": "गोविंद नारायण द्विवेदी",
+    "applicant_name_en": "Govind Narayan Dwivedi",
+    "father_name": "श्री काशीनाथ द्विवेदी",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-09-30",
+    "last_updated": "2026-09-30",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "दमोह",
+    "district_en": "Damoh",
+    "tehsil": "हटा (Hatta)",
+    "address": "कचहरी रोड, हटा, दमोह, मध्य प्रदेश",
+    "contact": "79XX-XXX-020",
+    "declared_annual_income": 125000,
+    "income_source": "पुरोहिताई एवं धार्मिक अनुष्ठान",
+    "family_members": 3,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-0202",
+        "issue_date": "2017-09-19"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-DMH-2024-0202",
+        "issue_date": "2026-09-18"
+      },
+      "self_declaration": {
+        "type": "Notarized Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-020",
+        "issue_date": "2026-09-29"
+      },
+      "bank_statement": {
+        "type": "SBI Passbook",
+        "status": "submitted",
+        "doc_number": "BS-SBI-DMH-020",
+        "issue_date": "2026-10-13"
+      }
+    },
+    "review_notes": "आवेदन 28 दिन से लंबित! आय प्रमाण एवं राशन कार्ड संलग्न नहीं। CM हेल्पलाइन पर शिकायत दर्ज।",
+    "urgency": "high",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0021",
+    "applicant_name": "सुरेश कुमार लोधी",
+    "applicant_name_en": "Suresh Kumar Lodhi",
+    "father_name": "श्री परशुराम लोधी",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-26",
+    "last_updated": "2026-10-26",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "रायसेन",
+    "district_en": "Raisen",
+    "tehsil": "गौहरगंज (Goharganj)",
+    "address": "मंडीदीप, रायसेन, मध्य प्रदेश",
+    "contact": "78XX-XXX-121",
+    "declared_annual_income": 175000,
+    "income_source": "मंडीदीप इंडस्ट्रियल वर्कर",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-1212",
+        "issue_date": "2020-03-24"
+      },
+      "address_proof": {
+        "type": "Rent Agreement",
+        "status": "submitted",
+        "doc_number": "RA-RSN-2024-1212",
+        "issue_date": "2026-09-13"
+      },
+      "income_proof": {
+        "type": "Company Payslip",
+        "status": "submitted",
+        "doc_number": "PAY-RSN-2024-12",
+        "issue_date": "2026-10-03"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-MP-1212",
+        "issue_date": "2021-01-18"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-021",
+        "issue_date": "2026-10-25"
+      },
+      "bank_statement": {
+        "type": "Union Bank Statement",
+        "status": "submitted",
+        "doc_number": "BS-UBI-2024-12",
+        "issue_date": "2026-10-18"
+      }
+    },
+    "review_notes": "नवीन आवेदन। EWS प्रमाण पत्र हेतु आवश्यक। सभी दस्तावेज संलग्न हैं।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0022",
+    "applicant_name": "माया बाई अहिरवार",
+    "applicant_name_en": "Maya Bai Ahirwar",
+    "father_name": "श्री देवीदीन अहिरवार",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-15",
+    "last_updated": "2026-10-27",
+    "status": "returned_for_correction",
+    "assigned_officer": "OFF-MP-001",
+    "district": "शिवपुरी",
+    "district_en": "Shivpuri",
+    "tehsil": "पिछोर (Pichhore)",
+    "address": "वार्ड 05, पिछोर, शिवपुरी, मध्य प्रदेश",
+    "contact": "77XX-XXX-222",
+    "declared_annual_income": 70000,
+    "income_source": "कृषि मजदूरी",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "ration_card",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-2222",
+        "issue_date": "2019-07-11"
+      },
+      "address_proof": {
+        "type": "Voter ID Card",
+        "status": "submitted",
+        "doc_number": "VID-SHV-2222",
+        "issue_date": "2018-09-05"
+      },
+      "ration_card": {
+        "type": "BPL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-SHV-2222",
+        "issue_date": "2017-06-12"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-022",
+        "issue_date": "2026-10-14"
+      }
+    },
+    "review_notes": "सुधार हेतु वापस: आय प्रमाण पत्र एवं 6 माह का बैंक विवरण अपलोड करें।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0023",
+    "applicant_name": "रघुवीर सिंह तोमर",
+    "applicant_name_en": "Raghuveer Singh Tomar",
+    "father_name": "श्री बलवंत सिंह तोमर",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-11",
+    "last_updated": "2026-10-25",
+    "status": "approved",
+    "assigned_officer": "OFF-MP-001",
+    "district": "मुरैना",
+    "district_en": "Morena",
+    "tehsil": "अंबाह (Ambah)",
+    "address": "ग्राम पोरसा, मुरैना, मध्य प्रदेश",
+    "contact": "76XX-XXX-323",
+    "declared_annual_income": 195000,
+    "income_source": "कृषि एवं दुग्ध व्यवसाय",
+    "family_members": 5,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "verified",
+        "doc_number": "XXXX-XXXX-3232",
+        "issue_date": "2018-04-16"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "verified",
+        "doc_number": "EB-MOR-2024-3232",
+        "issue_date": "2026-09-23"
+      },
+      "income_proof": {
+        "type": "Patwari Verification Report",
+        "status": "verified",
+        "doc_number": "PAT-MOR-2024-88",
+        "issue_date": "2026-10-08"
+      },
+      "ration_card": {
+        "type": "APL Ration Card",
+        "status": "verified",
+        "doc_number": "RC-MOR-3232",
+        "issue_date": "2020-02-14"
+      },
+      "self_declaration": {
+        "type": "Notarized Declaration",
+        "status": "verified",
+        "doc_number": "SD-2024-023",
+        "issue_date": "2026-10-10"
+      },
+      "bank_statement": {
+        "type": "SBI Ambah Branch Statement",
+        "status": "verified",
+        "doc_number": "BS-SBI-AMB-323",
+        "issue_date": "2026-10-13"
+      }
+    },
+    "review_notes": "पटवारी जांच उपरांत आय प्रमाण पत्र अनुविभागीय अधिकारी (SDO) द्वारा स्वीकृत।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0024",
+    "applicant_name": "हर्षवर्धन पाटीदार",
+    "applicant_name_en": "Harshvardhan Patidar",
+    "father_name": "श्री शांतिलाल पाटीदार",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-09",
+    "last_updated": "2026-10-24",
+    "status": "rejected",
+    "assigned_officer": "OFF-MP-001",
+    "district": "नीमच",
+    "district_en": "Neemuch",
+    "tehsil": "मनासा (Manasa)",
+    "address": "गांधी चौक, मनासा, नीमच, मध्य प्रदेश",
+    "contact": "75XX-XXX-424",
+    "declared_annual_income": 480000,
+    "income_source": "अफीम पट्टा एवं लहसुन व्यापार",
+    "family_members": 4,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-4242",
+        "issue_date": "2019-10-12"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-NMH-2024-4242",
+        "issue_date": "2026-09-18"
+      },
+      "income_proof": {
+        "type": "Mandi Tax Assessment",
+        "status": "submitted",
+        "doc_number": "MTA-NMH-2024-19",
+        "issue_date": "2026-09-28"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-024",
+        "issue_date": "2026-10-08"
+      }
+    },
+    "review_notes": "सकल आय ₹4,80,000 दर्शाई गई है जो आय सीमा से अधिक है तथा ITR 4 में ₹9,20,000 दर्शित है। अस्वीकृत।",
+    "urgency": "normal",
+    "secondary_income_record": 920000,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0025",
+    "applicant_name": "लखन लाल चक्रवर्ती",
+    "applicant_name_en": "Lakhan Lal Chakravarty",
+    "father_name": "श्री मुन्ना लाल चक्रवर्ती",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "बालाघाट",
+    "district_en": "Balaghat",
+    "tehsil": "वारासिवनी (Waraseoni)",
+    "address": "ग्राम लालबर्रा, बालाघाट, मध्य प्रदेश",
+    "contact": "74XX-XXX-525",
+    "declared_annual_income": 90000,
+    "income_source": "कुम्हारी एवं हस्तशिल्प कार्य (माटी कला)",
+    "family_members": 5,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "income_proof",
+      "ration_card",
+      "self_declaration",
+      "bank_statement"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Aadhaar Card",
+        "status": "submitted",
+        "doc_number": "XXXX-XXXX-5252",
+        "issue_date": "2020-06-18"
+      },
+      "address_proof": {
+        "type": "Gram Panchayat Tax Receipt",
+        "status": "submitted",
+        "doc_number": "GP-BLG-2024-52",
+        "issue_date": "2026-10-03"
+      },
+      "income_proof": {
+        "type": "Mati Kala Board Registration Certificate",
+        "status": "submitted",
+        "doc_number": "MKB-2024-081",
+        "issue_date": "2026-09-08"
+      },
+      "ration_card": {
+        "type": "BPL Ration Card",
+        "status": "submitted",
+        "doc_number": "RC-BLG-5252",
+        "issue_date": "2018-12-14"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-025",
+        "issue_date": "2026-10-26"
+      },
+      "bank_statement": {
+        "type": "Central Bank of India Waraseoni",
+        "status": "submitted",
+        "doc_number": "BS-CBI-5252",
+        "issue_date": "2026-10-13"
+      }
+    },
+    "review_notes": "मध्य प्रदेश माटी कला बोर्ड पंजीकृत कारीगर। सभी आवश्यक 6 दस्तावेज पूर्ण एवं सत्यापित होने योग्य।",
+    "urgency": "normal",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  },
+  {
+    "application_id": "MP-INC-2024-0026",
+    "applicant_name": "रामेश्वर दयाल शर्मा",
+    "applicant_name_en": "Rameshwar Dayal Sharma",
+    "father_name": "श्री बाबूलाल शर्मा",
+    "application_type": "आय प्रमाण पत्र",
+    "application_type_en": "Income Certificate",
+    "submission_date": "2026-09-28",
+    "last_updated": "2026-09-28",
+    "status": "pending",
+    "assigned_officer": "OFF-MP-001",
+    "district": "राजगढ़",
+    "district_en": "Rajgarh",
+    "tehsil": "ब्यावरा (Biaora)",
+    "address": "पुराना बस स्टैंड, ब्यावरा, राजगढ़, मध्य प्रदेश",
+    "contact": "73XX-XXX-626",
+    "declared_annual_income": 115000,
+    "income_source": "छोटा दर्जी कार्य",
+    "family_members": 6,
+    "submitted_documents": [
+      "identity_proof",
+      "address_proof",
+      "self_declaration"
+    ],
+    "document_details": {
+      "identity_proof": {
+        "type": "Voter ID Card",
+        "status": "submitted",
+        "doc_number": "VID-RJG-6262",
+        "issue_date": "2015-02-18"
+      },
+      "address_proof": {
+        "type": "Electricity Bill",
+        "status": "submitted",
+        "doc_number": "EB-RJG-2024-6262",
+        "issue_date": "2026-08-29"
+      },
+      "self_declaration": {
+        "type": "Self Declaration",
+        "status": "submitted",
+        "doc_number": "SD-2024-026",
+        "issue_date": "2026-09-27"
+      }
+    },
+    "review_notes": "30 दिन से अधिक समय से लंबित (गंभीर बैकलॉग)। 3 दस्तावेज़ गायब हैं। उच्च प्राथमिकता पर निस्तारण अपेक्षित।",
+    "urgency": "high",
+    "secondary_income_record": null,
+    "conflicting_dates": null
+  }
+]
