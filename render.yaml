@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: jansahayak-ai
+    env: python
+    plan: free
+    region: oregon
+    buildCommand: pip install -r requirements.txt && cd frontend && npm install && npm run build && cd ..
+    startCommand: uvicorn api:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.3
+      - key: DEMO_USERNAME
+        value: officer
+      - key: DEMO_PASSWORD
+        value: jansahayak2024
+      - key: DEMO_OFFICER_NAME
+        value: श्री राजेश शर्मा
+      - key: DEMO_OFFICER_ID
+        value: OFF-MP-001
+      - key: GROQ_MODEL
+        value: llama-3.1-8b-instant
+      - key: GROQ_API_KEY
+        sync: false
